@@ -8,3 +8,5 @@
 [Ejercicios1_1_003_1722714](https://github.com/dany0298/MineriadeDatos/blob/master/Ejercicios1_1_003.pdf.pdf)
 
 [Resumenes_1722714](https://github.com/dany0298/MineriadeDatos/blob/master/Resumenes_%7B1727214%7D.pdf)
+
+[MapaMenta_2_1722714](https://github.com/dany0298/MineriadeDatos/blob/master/MapaMental_2_1722714.pdf)
