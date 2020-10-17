@@ -1,4 +1,6 @@
 
+FASE 1:
+
 [MapaMental_1_1722714](https://github.com/dany0298/MineriadeDatos/blob/master/MapaMental_1_%7B1722714%7D.pdf)
  
 [Presentación_Reglas de Asociación_2](https://github.com/dany0298/MineriadeDatos/blob/master/Presentaci%C3%B3n_Reglas%20de%20Asociaci%C3%B3n_2.pdf%20.pdf)
@@ -10,3 +12,8 @@
 [Resumenes_1722714](https://github.com/dany0298/MineriadeDatos/blob/master/Resumenes_%7B1727214%7D.pdf)
 
 [MapaMental_2_1722714](https://github.com/dany0298/MineriadeDatos/blob/master/MapaMental_2_1722714.pdf)
+
+
+FASE 2:
+
+[AnalisisBD_1722714](https://github.com/dany0298/MineriadeDatos/blob/master/AnalisisBD_1722714.pdf)
