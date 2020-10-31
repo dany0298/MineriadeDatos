@@ -19,3 +19,5 @@ FASE 2:
 [AnalisisBD_1722714](https://github.com/dany0298/MineriadeDatos/blob/master/AnalisisBD_1722714.pdf)
 
 [PythonBasico_1722714](https://github.com/dany0298/MineriadeDatos/blob/master/PythonBasico_1722714.ipynb)
+
+[Avance1-PIA_2_003](https://github.com/dany0298/MineriadeDatos/blob/master/Avance1-PIA_2_003.pdf)
