@@ -23,3 +23,6 @@ FASE 2:
 [Avance1-PIA_2_003](https://github.com/dany0298/MineriadeDatos/blob/master/Avance1-PIA_2_003.pdf)
 
 [Ejercicios Python Mineria de datos](https://github.com/dany0298/MineriadeDatos/blob/master/Ejercicios%20Python%20Miner%C3%ADa%20de%20Datos_2_003%20(1).ipynb)
+
+[Avance2-PIA_2_003](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/AvancePIA_II_003_2.ipynb)
+[Avance2Carpeta-PIA_2_003](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/AvancePIA_II_003_2_CC.zip)
