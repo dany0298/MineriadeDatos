@@ -28,5 +28,6 @@ FASE 2:
 
 [Avance2Carpeta-PIA_2_003](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/AvancePIA_II_003_2_CC.zip)
 
-FASE 3
+FASE 3:
+
 [PIA_2_003](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/PIA_2_003%20.pdf)
